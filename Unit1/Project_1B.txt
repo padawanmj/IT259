@@ -1,0 +1,9 @@
+How applications developed in Java will be utilized in the future?
+
+The Java programming language has a history of supporting backwards compatability to the point of resisting correction of previous language mistakes. This means that application written today in Java will be able to run for at least 15 or 20 years on newer versions of Java without needing to rewrite the application or change to fit new paradigms and language features. While Java supports desktop application development it's real strengths are currently being applied to web applications and mobile development.
+
+One of the powerful concepts in the Java is that the Java Virtual Machine is a platform agnostic runtime, allowing new (and old) languages to be written on top of Java and leverage the flexibility of the JVM. Some great examples of this are Scala and Clojure which represent more dynamic languages written to be interpretted by Java. While object oriented language paradigms have worked well in Java to grow certain types of software other problems are better solved using more functional methodologies.
+
+As more and more technologies move towards being mobile and distributed having a rock solid platform agnostic virtual machine increases in value. Writing software today that can be interchangably run on a desktop, on the web, in an android mobile phone will likely mean that the same software can run on forthcoming technologies like smart tvs or Google Glasses. Your self driving car will run on Java, and will share the same software for navigation that you use in your phone.
+
+In terms of flexbility the Java language supports an amazing array of virtualized environments. For developers working with the Ruby language, support via JRuby allows rapid development of web application using Ruby on Rails on infrastructure that only supports Java (like Google AppEngine).
