@@ -1,3 +1,11 @@
+/**
+ * Book
+ *
+ * Abstract class book
+ * {String} title
+ * {double} price
+ */
+
 public abstract class Book
 {
 	// protected allows the title and price to be accessed by
